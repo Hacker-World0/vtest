@@ -1,2 +1,3 @@
 Intel(R) Core(TM) i3-310M CPU @ 2.40GHz1
 Intel(R) Core(TM) i3-310M CPU @ 2.40GHz12
+Intel(R) Core(TM) i3-3110M CPU @ 2.40GHz
